@@ -14,6 +14,7 @@ const App = () => {
           style={{ backgroundColor: "red" }}
           onClick={() => setColor("red")}
         >
+          
           {" "}
           Red
         </button>
